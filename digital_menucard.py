@@ -1,4 +1,4 @@
-### Learning Dictionaries (dicts) by building a first little system about it
+### Learning Dictionaries (dicts) by building a first Program about it
 
 ## Digital Menucard
 
