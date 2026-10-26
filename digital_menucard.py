@@ -2,6 +2,7 @@
 
 ## Digital Menucard
 
+
 menucard = {
     "water" : 2.50,
     "thee" : 2.20,
